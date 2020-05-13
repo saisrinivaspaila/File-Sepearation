@@ -5,13 +5,13 @@ Python code to select and seperate files
 This helps us to seperate files to directories based on their extensions.
 </pre>
 
-Here are some screenshots
+<p>Here are some screenshots</p>
 
-Initial image:
+<p>Initial image:</p>
 ![Intial Image]
-(ScreenShots/img1.png)
+(https://github.com/saisrinivaspaila/File-Sepearation/blob/master/ScreenShots/img1.png)
 
-Final image:
+<p>Final image:</p>
 ![Final Image]
-(ScreenShots/img2.png)
+(https://github.com/saisrinivaspaila/File-Sepearation/blob/master/ScreenShots/img2.png)
 
